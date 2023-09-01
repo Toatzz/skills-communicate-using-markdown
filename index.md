@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Work on GitHub Assignment
+- [ ] Turn in GitHub Assignment
+- [ ] Enjoy the weekend
